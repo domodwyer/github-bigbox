@@ -14,4 +14,4 @@ When you're all set up, click [here][script] to install the user script.
 
 [Greasemonkey script]: https://en.wikipedia.org/wiki/Greasemonkey
 [Tampermonkey]: https://www.tampermonkey.net/
-[script]: github-big-box.user.js
+[script]: https://github.com/domodwyer/github-bigbox/raw/master/github-big-box.user.js
